@@ -1,4 +1,4 @@
 ## Stats
 
-[![dlanx6's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlanx6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![dlanx6's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlanx6&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
