@@ -4,4 +4,4 @@
 
 ## Languages used
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlanx6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlanx6&theme=tokyonight&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
