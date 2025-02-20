@@ -1,4 +1,4 @@
-**Currently studying MERN and Blockchain... 🌱**
+**🌱 Currently studying MERN and Blockchain...**
 
 ## Stats
 
