@@ -8,27 +8,18 @@
   </a>
 </p>
 
-### Stats
+### GitHub Stats
 
 <div align="center">
-    <div
-    style="
-      display: flex;
-      justify-content: space-between;
-      text-align: center;
-      gap: 1rem;
-    "
-	>
+    <div style="">
       <img 
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=dlanx6&show_icons=true&theme=tokyonight&hide_border=true"
-      />
-      <img 
-        align="center"
+	align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanx6&theme=tokyonight&hide_border=true&layout=compact"
+      />
+      <br><br>
+      <img 
+	align="center"
+        src="https://github-readme-stats.vercel.app/api?username=dlanx6&show_icons=true&theme=tokyonight&hide_border=true"
       />
   </div>
 </div>
-
-[![dlanx6's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlanx6&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages]()](https://github.com/anuraghazra/github-readme-stats)
