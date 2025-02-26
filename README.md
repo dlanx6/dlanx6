@@ -1,5 +1,7 @@
 **🌱 Currently studying MERN and Blockchain...**
 
+<hr>
+
 ### Languages
 
 <p align="center">
