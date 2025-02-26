@@ -2,7 +2,7 @@
 
 <hr>
 
-### Languages
+### :zap: Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,7 +10,9 @@
   </a>
 </p>
 
-### GitHub Stats
+<br>
+
+### :fire: GitHub Stats
 
 <div align="center">
     <div style="">
