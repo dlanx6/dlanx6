@@ -4,9 +4,11 @@
 
 <div align="center">
 	
-  ### :zap: Languages
+  ### Languages
   
 </div>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,9 +20,11 @@
 
 <div align="center">
 	
-  ### :fire: GitHub Stats
+  ### GitHub Stats
   
 </div>
+
+<br>
 
 <div align="center">
     <div style="">
