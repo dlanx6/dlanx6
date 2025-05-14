@@ -16,7 +16,7 @@
 
 <div align="center">
 	
-  ### GitHub Stats
+  ### Stats
   
 </div>
 
@@ -25,10 +25,12 @@
 <div align="center">
       <img 
 	align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanx6&theme=highcontrast&hide_border=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanx6&theme=react&hide_border=true&layout=compact"
+	height="170"
       />
       <img 
 	align="center"
-        src="https://github-readme-stats.vercel.app/api?username=dlanx6&show_icons=true&theme=highcontrast&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=dlanx6&show_icons=true&theme=react&hide_border=true"
+	height="170"
       />
 </div>
