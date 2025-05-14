@@ -1,7 +1,5 @@
-<div align="center">
-	
-  ### Languages and Tools
-  
+<div align="center">	
+  ### Languages and Tools 
 </div>
 
 <br>
@@ -15,23 +13,18 @@
 <br>
 
 <div align="center">
-	
   ### GitHub Stats
-  
 </div>
 
 <br>
 
 <div align="center">
-    <div style="">
       <img 
 	align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanx6&theme=highcontrast&hide_border=true&layout=compact"
       />
-      <br><br>
       <img 
 	align="center"
         src="https://github-readme-stats.vercel.app/api?username=dlanx6&show_icons=true&theme=highcontrast&hide_border=true"
       />
-  </div>
 </div>
