@@ -1,5 +1,7 @@
 <div align="center">	
+	
   ### Languages and Tools 
+  
 </div>
 
 <br>
@@ -13,7 +15,9 @@
 <br>
 
 <div align="center">
+	
   ### GitHub Stats
+  
 </div>
 
 <br>
