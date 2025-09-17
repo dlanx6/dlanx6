@@ -23,14 +23,10 @@
 <br>
 
 <div align="center">
-      <img 
-	align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlanx6&theme=react&layout=compact"
-	height="170"
-      />
-      <img 
-	align="center"
-        src="https://github-readme-stats.vercel.app/api?username=dlanx6&show_icons=true&theme=react"
-	height="170"
-      />
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+  		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dlanx6&theme=react&layout=compact" />
+	</a>
+	<a href="https://github.com/anuraghazra/convoychat">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlanx6&show_icons=true&theme=react" />
+	</a>
 </div>
