@@ -24,9 +24,9 @@
 
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-  		<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=dlanx6&layout=compact&theme=react" />
+  		<img height=165 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dlanx6&layout=compact&theme=react" />
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlanx6&show_icons=true&theme=react" />
+		<img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dlanx6&layout=compact&show_icons=true&theme=react" />
 	</a>
 </div>
