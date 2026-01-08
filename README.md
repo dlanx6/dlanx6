@@ -1,32 +1,37 @@
-<div align="center">	
-	
-  ### Languages and Tools 
-  
-</div>
+<h2 align="center">Hi! I'm Ronald Requioma</h1>
+<h3 align="center">Aspiring Full Stack Web Developer and Smart Contract Developer 🌱</h2>
 
 <br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cs,java,solidity,flask,express,react,nextjs,nodejs,tailwind,postgres,mongodb,mysql,git,postman,vercel,vscode&perline=5" />
-  </a>
+<h3 align="left">Languages</h2>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,py,solidity,java,html,css" />
 </p>
 
-<br>
+<h3 align="left">Frameworks</h2>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,express,flask" />
+</p>
+
+<h3 align="left">Database</h2>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+<h3 align="left">Tools</h2>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,nodejs,npm,pnpm,vite,vscode,vercel" />
+</p>
+
+<br> 
+
+<h3 align="center">Stats</h3>
 
 <div align="center">
-	
-  ### Stats
-  
-</div>
-
-<br>
-
-<div align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-  		<img height=165 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dlanx6&layout=compact&theme=react" />
-	</a>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dlanx6&layout=compact&show_icons=true&theme=react" />
-	</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=165 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dlanx6&layout=compact&theme=react" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dlanx6&layout=compact&show_icons=true&theme=react" />
+</a>
 </div>
