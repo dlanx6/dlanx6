@@ -10,7 +10,7 @@
 
 <h3 align="left">Frameworks</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,express,flask" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,express,flask,fastapi" />
 </p>
 
 <h3 align="left">Database</h2>
