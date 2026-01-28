@@ -1,5 +1,5 @@
 <h2 align="center">Hi! I'm Ronald Requioma</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer and Future Smart Contract Developer 🌱</h2>
+<h3 align="center">Aspiring Full-Stack Web Developer and Future Web3 Developer 🌱</h2>
 
 <br>
 
