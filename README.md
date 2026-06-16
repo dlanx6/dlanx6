@@ -15,7 +15,7 @@
 
 <h3 align="left">Database</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
 </p>
 
 <h3 align="left">Tools</h2>
