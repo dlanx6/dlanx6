@@ -20,7 +20,7 @@
 
 <h3 align="left">Tools</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,nodejs,npm,pnpm,vite,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,nodejs,npm,pnpm,vite,vscode,vercel,cloudflare,netlify" />
 </p>
 
 <br> 
