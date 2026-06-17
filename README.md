@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,py,solidity,java,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,solidity,html,css" />
 </p>
 
 <h3 align="left">Frameworks</h2>
